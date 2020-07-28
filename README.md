@@ -2,4 +2,4 @@
 Useful resources for entrepreneurs
 
 ### IP in Canada
-https://canada.ca/ip-forbusiness
+https://canada.ca/ip-for-business
