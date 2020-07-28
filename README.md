@@ -1,2 +1,2 @@
-# entrepreneur-tools
+# Business Tools
 Useful resources for entrepreneurs
