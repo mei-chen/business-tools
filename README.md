@@ -7,6 +7,7 @@ Unsplash (https://unsplash.com/)
 Canva (https://www.canva.com/)
 Bitable (https://app.biteable.com/) -- Create custom vidoes from stock footage
 Mockup World (https://www.mockupworld.co/) -- Free mockups PSD files download
+What The Font (https://www.myfonts.com/WhatTheFont/) -- Upload picture of text, get font identification
 
 ### Market Research
 Ask The Public (https://answerthepublic.com/)
