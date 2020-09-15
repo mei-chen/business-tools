@@ -37,6 +37,7 @@ Later (https://later.com/) -- instagram post scheduler
 
 ### Learn from competition 
 Unicornads (https://unicornads.com/) -- Spy on the top 1% of ads and see what they're doing right
+Spy Fu (https://www.spyfu.com/) -- See competitor keywords 
 
 ### Physical Product 
 Pack Lane (https://packlane.com/) -- Cutom packaging 
