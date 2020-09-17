@@ -7,7 +7,6 @@ Unsplash (https://unsplash.com/)
 Canva (https://www.canva.com/)
 Bitable (https://app.biteable.com/) -- Create custom vidoes from stock footage
 Mockup World (https://www.mockupworld.co/) -- Free mockups PSD files download
-What The Font (https://www.myfonts.com/WhatTheFont/) -- Upload picture of text, get font identification
 
 ### Market Research
 Ask The Public (https://answerthepublic.com/)
@@ -37,11 +36,12 @@ Later (https://later.com/) -- instagram post scheduler
 
 ### Learn from competition 
 Unicornads (https://unicornads.com/) -- Spy on the top 1% of ads and see what they're doing right
-Spy Fu (https://www.spyfu.com/) -- See competitor keywords 
 
 ### Physical Product 
 Pack Lane (https://packlane.com/) -- Cutom packaging 
-<<<<<<< HEAD
-Sticker MUle (https://www.stickermule.com/) -- Custom stickers! 
-=======
->>>>>>> 2cccb80c1606d600f65f4620084caae297ad2b6b
+Sticker MUle (https://www.stickermule.com/) -- Custom stickers!   
+
+### Branding/ Inspo
+Typewolf (https://typewolf.com) -- What's trending in type
+Awwwards (https://www.awwwards.com) -- Best web design trends
+The Inspiration Grid (https://theinspirationgrid.com) -- Design inspo 
