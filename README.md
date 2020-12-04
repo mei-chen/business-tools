@@ -1,5 +1,4 @@
 # Business Tools
-Useful resources for entrepreneurs
 
 ### Photos, Design
 Pexels (https://www.pexels.com/)
