@@ -15,7 +15,13 @@ A curated list of tools to simplify, enhance, and supercharge your entrepreneuri
 
 ## 🔍 **Market Research**
 - [**Answer The Public**](https://answerthepublic.com/) – Visualize popular questions and topics from search engines.
-- [**Clay**](https://clay.com/) – Advanced data-driven market research and lead tracking.
+
+---
+
+## 🤖 **Automation**
+- [**Clay**](https://clay.com/) – Relationship management and workflow automation for entrepreneurs.
+- [**n8n**](https://n8n.io/) – Open-source workflow automation tool with no-code integrations.
+- [**Zapier**](https://zapier.com/) – Connect your apps and automate workflows without coding.
 
 ---
 
